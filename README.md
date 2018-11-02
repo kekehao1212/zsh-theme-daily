@@ -2,6 +2,6 @@
 
 My personal zsh theme.
 
-## Screenshot
+## Screenshot 
 
 ![zsh-theme](./preview.png)
